@@ -1,0 +1,7 @@
+FREE = "https://gramfree.network/free"
+DASHBOARD = "https://gramfree.network/dashboard"
+VIDEOS = "https://gramfree.network/videos"
+SMART_CONTRACTS = "https://gramfree.network/smartContracts"
+LOG_FILE = "LOGS/eventlogs.txt"
+FREE_COUNTER_FILE = "LOGS/free_counter.txt"
+BAL_LOG = "LOGS/balance.csv"
